@@ -1,5 +1,5 @@
-
-# Introduction
+# 24K-0767
+## Introduction
 👋 Hi! I’m Abdur Rehman Khan. I am currently doing my ***Bachelor of Science in Computer Science*** (***BSCS***)at ***FAST*** ***NUCES***. I am embarking on the commencement of my career in programming. Additionally i am passionate about playing *Cricket* which I believe enhances my teamwork and strategic thinking skills. Here’s a bit more about myself:
  
 
