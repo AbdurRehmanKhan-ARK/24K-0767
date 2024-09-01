@@ -8,4 +8,6 @@
                      
 📚 **Goals:** Enthusiastic to develop my skills in programming and work on exciting projects and to become a **professional frontend developer**.
 
-🤝 **Looking to Connect:** Feel free to give me Advices, Tips and Tricks for my Goodness and I will be grateful to you for this kind act.
+🤝 **Looking to Connect:** Feel free to give me Advices, Tips and Tricks for my goodness in this career and I will be grateful to you for this kind act.
+
+***Thank You***
