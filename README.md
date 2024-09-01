@@ -1,6 +1,7 @@
-# Hello Everyone !
-**👋 Hi! I’m Abdur Rehman Khan**\
- *Welcome to my GitHub profile ! I’m a university student beginning my adventure in coding. Here’s a bit about me:*
+
+# Introduction
+**👋 Hi! I’m Abdur Rehman Khan. I am currently doing my Bachelor of Science in Computer Science at FAST NUCES. I am commencing my career in coding. Here’s a bit about me:**
+ 
 
 🌟**Learning:**  Currently exploring and diving into the basics of programming.
 
